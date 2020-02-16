@@ -1,0 +1,6 @@
+<?php
+
+return [
+
+    'FIREBASE_CLOUD_MESSAGING_SERVER_KEY' => env('FIREBASE_CLOUD_MESSAGING_SERVER_KEY',null),
+	];
